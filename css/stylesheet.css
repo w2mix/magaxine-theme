@@ -627,13 +627,13 @@ display:none;}
 }
 .box_header_cart:hover	{}
 .box_header_cart a.cart_l{ min-width:280px;font-size:13px;}
-.box_header_cart a label{
+.box_header_cart a span.cart_name{
     padding: 0px 0 0px 0px;
     display: block;
     margin: 0px 0px 4px 0px;
-    color: #f87cac;
-    font-weight: 400;
-    font-size: 18px;
+    color: #f87cac !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
     text-transform: capitalize;
 }
 .box_header_cart a.cart_l:hover{cursor:pointer;}
